@@ -1,4 +1,4 @@
-![Hi there 👋](https://cloudinary.com/console/c-5d18d6506f91bc66a047cb6170d08b/media_library/folders/home/asset/6278d1c20374b78ca2ad660f1b7cf32e/manage)
+![Hi there 👋](https://res.cloudinary.com/dwv1zde2l/image/upload/v1594397069/dennis-kummer-52gEprMkp7M-unsplash_t49vo4.jpg)
 
 Hello! Welcome to my GitHub Page
 
