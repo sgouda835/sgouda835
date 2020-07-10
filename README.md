@@ -1,4 +1,4 @@
-![Hi there 👋](https://res.cloudinary.com/dwv1zde2l/image/upload/v1594397069/dennis-kummer-52gEprMkp7M-unsplash_t49vo4.jpg)
+![Hi there 👋](https://res.cloudinary.com/dwv1zde2l/image/upload/v1594397392/bubbles-wide_p7h5mk.jpg)
 
 Hello! Welcome to my GitHub Page
 
